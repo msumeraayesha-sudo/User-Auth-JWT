@@ -1,0 +1,5 @@
+{
+  "ignore": [
+    "data/users.json"
+  ]
+}

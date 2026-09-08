@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1788859943275",
+    "name": "Ayesha",
+    "email": "ayesha@example.com",
+    "password": "$2b$10$4fP6TEKHibcMaIu6WrXzbelNY0vVHc9IJ8/jO3Zw20DOfxwOxmafy"
+  },
+  {
+    "id": "1788863527302",
+    "name": "MS UMERA AYESHA",
+    "email": "msumeraayesha@gmail.com",
+    "password": "$2b$10$7WOucwQs.hScnT9EFA/oOuawt5MqQX8VRIbYALj/WCbQ0vgGHHMxa"
+  },
+  {
+    "id": "1788876462855",
+    "name": "muhsin",
+    "email": "muhsintt777@gmail.com",
+    "password": "$2b$10$6y9E9WMYH23Znn4VcJ.AVe.MUW2enqbizZcs9VqkFvOivvW9wB4l2",
+    "resetToken": "2e8372c36a61da63aca230f4f89e9f5b8a9b73af64e244e9e147e21534938d24",
+    "resetTokenExpiry": 1788877409784
+  }
+]
